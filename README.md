@@ -1,3 +1,9 @@
+**Site atual das aulas de inglês:** [Aulas particulares de inglês online — Professor Marcos Vinicius](https://teachermarcosvinifs.github.io/Landing-page-1/).
+
+Este repositório contém uma versão anterior da página. Para conhecer as modalidades disponíveis e entrar em contato, utilize o site atual acima.
+
+---
+
 # Landing-page
 <!DOCTYPE html>
 <html lang="pt-BR">
